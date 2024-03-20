@@ -14,7 +14,7 @@ Feel free to explore my repositories for more projects and code samples.
 ## Contact
 You can reach out to me through the following channels:
 - **Email:** [michaeldilnessa2@gmail.com](mailto:michaeldilnessa2@gmail.com)
-- **LinkedIn:** [https://www.linkedin.com/in/michael-dilnessa-b1bb26229/]([https://www.linkedin.com](https://www.linkedin.com/in/michael-dilnessa-b1bb26229/)/in/your-profile)
+- **LinkedIn:** [https://www.linkedin.com/in/michael-dilnessa-b1bb26229/](https://www.linkedin.com](https://www.linkedin.com/in/michael-dilnessa-b1bb26229/)/in/your-profile)
 
 I am open to collaboration and always interested in exciting projects. If you have any suggestions or inquiries, feel free to get in touch.
 
